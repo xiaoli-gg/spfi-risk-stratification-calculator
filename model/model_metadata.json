@@ -1,0 +1,17 @@
+{
+  "model_name": "Support Vector Classifier",
+  "task": "Prediction of secondary pulmonary fungal infection in patients with severe pneumonia",
+  "feature_selection": "RFECV with one-standard-error rule",
+  "number_of_predictors": 14,
+  "threshold": 0.293,
+  "development_cohort_n": 659,
+  "training_set_n": 463,
+  "internal_holdout_n": 196,
+  "temporal_validation_n": 150,
+  "temporal_validation_AUROC": 0.766,
+  "temporal_validation_AUPRC": 0.659,
+  "temporal_validation_sensitivity": 0.780,
+  "temporal_validation_specificity": 0.600,
+  "temporal_validation_Brier": 0.186,
+  "intended_use": "Research and educational risk stratification aid only; not for standalone clinical diagnosis or treatment decisions."
+}

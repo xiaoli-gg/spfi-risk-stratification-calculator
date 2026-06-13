@@ -1,0 +1,16 @@
+[
+  "Age",
+  "BMI",
+  "Type2_Diabetes",
+  "Glucocorticoids_Use",
+  "Multi_Antibiotics_3plus",
+  "Prolonged_Antibiotic_Use",
+  "Surgery_Status",
+  "WBC_On_Admission",
+  "Neutrophil_Percent",
+  "PaO2",
+  "PaCO2",
+  "Blood_Glucose",
+  "Oxygenation_Index",
+  "CRP"
+]

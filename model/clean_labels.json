@@ -1,1 +1,16 @@
-
+{
+  "Age": "Age",
+  "BMI": "Body mass index",
+  "Type2_Diabetes": "Type 2 diabetes",
+  "Glucocorticoids_Use": "Glucocorticoid use",
+  "Multi_Antibiotics_3plus": "Three or more antibiotics",
+  "Prolonged_Antibiotic_Use": "Prolonged antibiotic use",
+  "Surgery_Status": "Surgery before prediction",
+  "WBC_On_Admission": "White blood cell count on admission",
+  "Neutrophil_Percent": "Neutrophil percentage",
+  "PaO2": "PaO₂",
+  "PaCO2": "PaCO₂",
+  "Blood_Glucose": "Blood glucose",
+  "Oxygenation_Index": "Oxygenation index",
+  "CRP": "C-reactive protein"
+}
